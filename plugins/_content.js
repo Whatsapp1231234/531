@@ -24,7 +24,7 @@ global.accountsgb = [canal1, canal2, canal3, canal4, tk, ig, yt, paypal, fb, ths
 var canalesInfo = [
 { link: canal1, id: "120363160031023229@newsletter", name: "INFINITY-WA 💫" },
 { link: canal2, id: "120363169294281316@newsletter", name: "GB - UPDATE ✨" },
-{ link: canal3, id: "120363203805910750@newsletter", name: "Tips sobre Лилит 🤩" } 
+{ link: canal3, id: "120363203805910750@newsletter", name: "Tips sobre ꧁ঔৣ♚☠️✞АЛИТА✞☠️♚ঔৣ꧂ 🤩" } 
 ]
 var indiceAleatorio = Math.floor(Math.random() * canalesInfo.length)
 var channelRD = canalesInfo[indiceAleatorio]
